@@ -1,0 +1,38 @@
+/*
+Project Name: Column Layout
+Author: Neha Kumari 
+*/
+
+h1 {
+     text-align: center;
+}
+
+#main {
+     background: rgb(255, 254, 255);
+     text-align: center;
+     align-content: center;
+     padding: 6px;
+     
+}
+h1 {
+     color: white;
+     font-size: 40px;
+   
+}
+
+h2 {
+     color: orange;
+}
+
+#header {
+     background: palegreen;
+     padding: 6px;
+}
+
+#footer {
+     background: orange;
+     padding: 6px;
+}
+
+
+
